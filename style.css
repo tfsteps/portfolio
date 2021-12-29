@@ -1,0 +1,56 @@
+@font-face{
+  font-family: main;
+  src: url(1.ttf);
+}
+
+.m-t {
+  margin-top: 45px;
+}
+
+.f-s {
+  height: 195px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.text {
+  text-align: center;
+  color: #4aa633;
+  font-family: main;
+}
+
+.size1 {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.h {
+  padding-top: 0px;
+  color: white;
+
+}
+
+.r {
+  border-radius: 10px;
+}
+
+.sh {
+  box-shadow: 4px 49px 52px -2px rgba(34, 60, 80, 0.2);
+}
+
+.back {
+  background: #ebebeb;;
+}
+
+.m-l {
+  margin-left: 800px;
+}
+
+.a {
+  text-decoration: none;
+  padding: 0;
+}
+
